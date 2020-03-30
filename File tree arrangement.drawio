@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-03-30T06:31:35.081Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="v6o2oxXo5U_S1RqaAn-_" version="12.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-30T06:32:24.438Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="MyjXEA4B17wRD4LiJjHb" version="12.9.4" type="github">
   <diagram id="vx01uoFtrj__LdfE2VaE" name="File tree arrangement ">
     <mxGraphModel dx="1303" dy="1816" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -135,7 +135,7 @@
           <mxGeometry x="460" y="440" width="167" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1bapABZ5rgCXsiwJLi8P-95" value="Documents shared as per vendor&amp;nbsp;&lt;br&gt;" style="html=1;whiteSpace=wrap;;fontSize=11;fontColor=#000000;spacing=5;strokeOpacity=100;strokeWidth=1.2;" vertex="1" parent="1">
-          <mxGeometry x="678.5" y="440" width="167" height="80" as="geometry" />
+          <mxGeometry x="698" y="490" width="167" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1bapABZ5rgCXsiwJLi8P-34" value="Manufacturing " style="html=1;whiteSpace=wrap;;fontSize=11;fontColor=#000000;spacing=5;strokeOpacity=100;strokeWidth=1.2;" vertex="1" parent="1">
           <mxGeometry x="300" y="862" width="96" height="72" as="geometry" />
@@ -232,8 +232,13 @@
         <mxCell id="1bapABZ5rgCXsiwJLi8P-65" value="Accesories&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="-100" width="157" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="1bapABZ5rgCXsiwJLi8P-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1bapABZ5rgCXsiwJLi8P-68" target="1bapABZ5rgCXsiwJLi8P-106">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="1bapABZ5rgCXsiwJLi8P-68" value="New Product Development&amp;nbsp;&lt;br&gt;1. Elite&amp;nbsp;&lt;br&gt;2. Cross over&amp;nbsp;&lt;br&gt;3.Family segment&lt;br&gt;4. Accesories&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="290" width="157" height="110" as="geometry" />
+          <mxGeometry x="460" y="300" width="157" height="110" as="geometry" />
         </mxCell>
         <mxCell id="1bapABZ5rgCXsiwJLi8P-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.004;entryY=0.603;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1bapABZ5rgCXsiwJLi8P-75" target="1bapABZ5rgCXsiwJLi8P-82">
           <mxGeometry relative="1" as="geometry">
@@ -262,13 +267,16 @@
           <mxGeometry x="461" y="555" width="169" height="105" as="geometry" />
         </mxCell>
         <mxCell id="1bapABZ5rgCXsiwJLi8P-93" value="1.Submitted forms&amp;nbsp;&lt;br&gt;2. Forms for Reference&amp;nbsp;&lt;br&gt;3.&amp;nbsp;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="684" y="555" width="166" height="145" as="geometry" />
+          <mxGeometry x="703.5" y="605" width="166" height="145" as="geometry" />
         </mxCell>
         <mxCell id="1bapABZ5rgCXsiwJLi8P-100" value="Market Analysis and requirements shared&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="461" y="156" width="159" height="114" as="geometry" />
         </mxCell>
         <mxCell id="1bapABZ5rgCXsiwJLi8P-103" value="Bussiness contacts&amp;nbsp;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1bapABZ5rgCXsiwJLi8P-106" value="!. Reference models&lt;br&gt;2. Requirements and Specs&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="686" y="380" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
