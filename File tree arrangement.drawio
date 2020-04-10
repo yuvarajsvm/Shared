@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-10T06:22:00.927Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="-cUxswh_UcCDM8Yv0hN8" version="12.9.10" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-04-10T07:07:09.756Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="Uy_KvOz9jqinP9hnvF9H" version="12.9.10" type="github" pages="2">
   <diagram id="vx01uoFtrj__LdfE2VaE" name="File tree arrangement ">
     <mxGraphModel dx="2607" dy="2462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -337,7 +337,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="man1NpnpAaFhUs7aIVj8" name="Project infinite">
-    <mxGraphModel dx="1944" dy="554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2782" dy="970" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="G-AzVCK63GoCO9ypON8x-0" />
         <mxCell id="G-AzVCK63GoCO9ypON8x-1" parent="G-AzVCK63GoCO9ypON8x-0" />
@@ -420,8 +420,8 @@
         <mxCell id="G-AzVCK63GoCO9ypON8x-27" value="1. Swapable battery -&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="G-AzVCK63GoCO9ypON8x-1">
           <mxGeometry x="-10" y="510" width="130" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="G-AzVCK63GoCO9ypON8x-28" value="Design&amp;nbsp;&lt;br&gt;1. Mounting the battery pack&amp;nbsp;&lt;br&gt;2. Inbuilt the ups and charger to the battery pack&amp;nbsp;&lt;br&gt;&lt;br&gt;Electrical&amp;nbsp;&lt;br&gt;1. Connector deatils without powering off the vehicle&amp;nbsp;&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="G-AzVCK63GoCO9ypON8x-1">
-          <mxGeometry x="-90" y="660" width="300" height="90" as="geometry" />
+        <mxCell id="G-AzVCK63GoCO9ypON8x-28" value="Design&amp;nbsp;&lt;br&gt;1. Mounting the battery pack&amp;nbsp;&lt;br&gt;2. Inbuilt the ups and charger to the battery pack&amp;nbsp;&lt;br&gt;&lt;br&gt;Electrical&amp;nbsp;&lt;br&gt;1. Connector deatils without powering off the vehicle&amp;nbsp;&lt;br&gt;&lt;br&gt;Regeneration curretnt regenated the the different speed&amp;nbsp;&lt;br&gt;&lt;br&gt;R programming language for the q depth setting&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="G-AzVCK63GoCO9ypON8x-1">
+          <mxGeometry x="-95" y="630" width="310" height="150" as="geometry" />
         </mxCell>
         <mxCell id="G-AzVCK63GoCO9ypON8x-29" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="G-AzVCK63GoCO9ypON8x-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -441,34 +441,16 @@
             <mxPoint x="50" y="590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G-AzVCK63GoCO9ypON8x-32" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="G-AzVCK63GoCO9ypON8x-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="150" y="360" as="sourcePoint" />
-            <mxPoint x="200" y="310" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="G-AzVCK63GoCO9ypON8x-33" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="G-AzVCK63GoCO9ypON8x-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="50" y="590" as="sourcePoint" />
-            <mxPoint x="410" y="600" as="targetPoint" />
+            <mxPoint x="400" y="590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="G-AzVCK63GoCO9ypON8x-34" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="G-AzVCK63GoCO9ypON8x-1" source="G-AzVCK63GoCO9ypON8x-39">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="410" y="560" as="sourcePoint" />
             <mxPoint x="510" y="560" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="G-AzVCK63GoCO9ypON8x-35" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="G-AzVCK63GoCO9ypON8x-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="160" y="530" as="sourcePoint" />
-            <mxPoint x="210" y="480" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="G-AzVCK63GoCO9ypON8x-36" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="G-AzVCK63GoCO9ypON8x-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="160" y="530" as="sourcePoint" />
-            <mxPoint x="210" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="G-AzVCK63GoCO9ypON8x-37" value="" style="shape=link;html=1;" edge="1" parent="G-AzVCK63GoCO9ypON8x-1">
@@ -481,11 +463,14 @@
         <mxCell id="G-AzVCK63GoCO9ypON8x-39" value="Input for the additional battery pack&amp;nbsp;&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="G-AzVCK63GoCO9ypON8x-1">
           <mxGeometry x="420" y="537" width="210" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="G-AzVCK63GoCO9ypON8x-40" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="G-AzVCK63GoCO9ypON8x-1" target="G-AzVCK63GoCO9ypON8x-39">
+        <mxCell id="G-AzVCK63GoCO9ypON8x-40" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="G-AzVCK63GoCO9ypON8x-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="410" y="560" as="sourcePoint" />
-            <mxPoint x="510" y="560" as="targetPoint" />
+            <mxPoint x="400" y="570" as="sourcePoint" />
+            <mxPoint x="480" y="570" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="G-AzVCK63GoCO9ypON8x-41" value="Disadvantage s&lt;br&gt;1. Adddtional weight&amp;nbsp; - 20 % loss the mileage&amp;nbsp;&lt;br&gt;2. AC connector 5 pin - without short circuit&amp;nbsp;&lt;br&gt;3. Regeneration 87.6 motor , grafual decrease&lt;br&gt;3. Charging and discharger - heating problem&amp;nbsp;&lt;br&gt;Un utilized power - heating&amp;nbsp;&lt;br&gt;&lt;br&gt;(charging and discharging continuous within 30 seconds&lt;br&gt;&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="G-AzVCK63GoCO9ypON8x-1">
+          <mxGeometry x="-350" y="331" width="310" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
