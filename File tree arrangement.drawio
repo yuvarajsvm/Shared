@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-13T09:50:31.340Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="CRQT3FKYFUxKE3COHUPV" version="13.0.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-05-14T10:25:58.770Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="qjt3bBEl48GyPWFyxV2s" version="13.0.1" type="github" pages="3">
   <diagram id="vx01uoFtrj__LdfE2VaE" name="File tree arrangement ">
     <mxGraphModel dx="1117" dy="1793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -596,7 +596,7 @@
     
   </diagram>
   <diagram id="tjAgMBoyWp5c1yVjmErP" name="File Tree arrangement for sales and marketing ">
-    <mxGraphModel dx="782" dy="-732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1117" dy="-545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="896Y9hIXXjww9CeegA_e-0" />
         <mxCell id="896Y9hIXXjww9CeegA_e-1" parent="896Y9hIXXjww9CeegA_e-0" />
@@ -622,6 +622,33 @@
         </mxCell>
         <mxCell id="896Y9hIXXjww9CeegA_e-8" value="General Plan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="896Y9hIXXjww9CeegA_e-1">
           <mxGeometry x="576" y="1900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="896Y9hIXXjww9CeegA_e-9" value="Digital Marketing&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="896Y9hIXXjww9CeegA_e-1">
+          <mxGeometry x="576" y="2140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="896Y9hIXXjww9CeegA_e-23" value="Assets" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="896Y9hIXXjww9CeegA_e-1">
+          <mxGeometry x="750" y="2140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="896Y9hIXXjww9CeegA_e-24" value="Branding" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="896Y9hIXXjww9CeegA_e-1">
+          <mxGeometry x="750" y="2240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="896Y9hIXXjww9CeegA_e-25" value="Product Data" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="896Y9hIXXjww9CeegA_e-1">
+          <mxGeometry x="750" y="2350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="896Y9hIXXjww9CeegA_e-26" value="Education videos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="896Y9hIXXjww9CeegA_e-1">
+          <mxGeometry x="750" y="2450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="896Y9hIXXjww9CeegA_e-27" value="Presentations&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="896Y9hIXXjww9CeegA_e-1">
+          <mxGeometry x="750" y="2540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="896Y9hIXXjww9CeegA_e-28" value="Swag files" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="896Y9hIXXjww9CeegA_e-1">
+          <mxGeometry x="750" y="2640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="896Y9hIXXjww9CeegA_e-29" value="Product &lt;br&gt;Videos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="896Y9hIXXjww9CeegA_e-1">
+          <mxGeometry x="750" y="2750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="896Y9hIXXjww9CeegA_e-30" value="&lt;p style=&quot;box-sizing: border-box ; margin: 20px 0px ; font-family: , sans-serif ; font-size: 17px ; line-height: 28.9px&quot;&gt;&lt;span style=&quot;box-sizing: border-box ; font-family: , sans-serif&quot;&gt;Copy:&lt;/span&gt;&lt;/p&gt;&lt;ul style=&quot;box-sizing: border-box ; margin: 40px 0px ; font-family: , sans-serif ; font-size: 15px&quot;&gt;&lt;li style=&quot;box-sizing: border-box ; font-size: 17px ; line-height: 28.9px ; margin: 20px 0px&quot;&gt;Website Content&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box ; font-size: 17px ; line-height: 28.9px ; margin: 20px 0px&quot;&gt;Landing Pages&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box ; font-size: 17px ; line-height: 28.9px ; margin: 20px 0px&quot;&gt;Social Media Posts&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box ; font-size: 17px ; line-height: 28.9px ; margin: 20px 0px&quot;&gt;Email Newsletters&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box ; font-size: 17px ; line-height: 28.9px ; margin: 20px 0px&quot;&gt;Press Releases&lt;/li&gt;&lt;/ul&gt;&lt;p style=&quot;box-sizing: border-box ; margin: 20px 0px ; font-family: , sans-serif ; font-size: 17px ; line-height: 28.9px&quot;&gt;&lt;span style=&quot;box-sizing: border-box ; font-family: , sans-serif&quot;&gt;Design:&lt;/span&gt;&lt;/p&gt;&lt;ul style=&quot;box-sizing: border-box ; margin: 40px 0px ; font-family: , sans-serif ; font-size: 15px&quot;&gt;&lt;li style=&quot;box-sizing: border-box ; font-size: 17px ; line-height: 28.9px ; margin: 20px 0px&quot;&gt;Social Media Images&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box ; font-size: 17px ; line-height: 28.9px ; margin: 20px 0px&quot;&gt;Website Images&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box ; font-size: 17px ; line-height: 28.9px ; margin: 20px 0px&quot;&gt;Email Headers&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box ; font-size: 17px ; line-height: 28.9px ; margin: 20px 0px&quot;&gt;Landing Page Design&lt;/li&gt;&lt;/ul&gt;&lt;p style=&quot;box-sizing: border-box ; margin: 20px 0px ; font-family: , sans-serif ; font-size: 17px ; line-height: 28.9px&quot;&gt;&lt;span style=&quot;box-sizing: border-box ; font-family: , sans-serif&quot;&gt;Strategy:&lt;/span&gt;&lt;/p&gt;&lt;ul style=&quot;box-sizing: border-box ; margin: 40px 0px ; font-family: , sans-serif ; font-size: 15px&quot;&gt;&lt;li style=&quot;box-sizing: border-box ; font-size: 17px ; line-height: 28.9px ; margin: 20px 0px&quot;&gt;Content Strategy&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box ; font-size: 17px ; line-height: 28.9px ; margin: 20px 0px&quot;&gt;Marketing Strategy&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box ; font-size: 17px ; line-height: 28.9px ; margin: 20px 0px&quot;&gt;Channel-Specific Strategies&lt;/li&gt;&lt;/ul&gt;&lt;p style=&quot;box-sizing: border-box ; margin: 20px 0px ; font-family: , sans-serif ; font-size: 17px ; line-height: 28.9px&quot;&gt;&lt;span style=&quot;box-sizing: border-box ; font-family: , sans-serif&quot;&gt;Logos / Brand Images:&lt;/span&gt;&lt;/p&gt;&lt;ul style=&quot;box-sizing: border-box ; margin: 40px 0px ; font-family: , sans-serif ; font-size: 15px&quot;&gt;&lt;li style=&quot;box-sizing: border-box ; font-size: 17px ; line-height: 28.9px ; margin: 20px 0px&quot;&gt;Logos&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box ; font-size: 17px ; line-height: 28.9px ; margin: 20px 0px&quot;&gt;Stock Images&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box ; font-size: 17px ; line-height: 28.9px ; margin: 20px 0px&quot;&gt;Office Images&lt;/li&gt;&lt;/ul&gt;&lt;p style=&quot;box-sizing: border-box ; margin: 20px 0px ; font-family: , sans-serif ; font-size: 17px ; line-height: 28.9px&quot;&gt;&lt;span style=&quot;box-sizing: border-box ; font-family: , sans-serif&quot;&gt;Reports:&lt;/span&gt;&lt;/p&gt;&lt;ul style=&quot;box-sizing: border-box ; margin: 40px 0px ; font-family: , sans-serif ; font-size: 15px&quot;&gt;&lt;li style=&quot;box-sizing: border-box ; font-size: 17px ; line-height: 28.9px ; margin: 20px 0px&quot;&gt;Content Reports&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box ; font-size: 17px ; line-height: 28.9px ; margin: 20px 0px&quot;&gt;Social Reports&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box ; font-size: 17px ; line-height: 28.9px ; margin: 20px 0px&quot;&gt;Email Reports&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box ; font-size: 17px ; line-height: 28.9px ; margin: 20px 0px&quot;&gt;Quarterly Reports&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box ; font-size: 17px ; line-height: 28.9px ; margin: 20px 0px&quot;&gt;Annual Reports&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="896Y9hIXXjww9CeegA_e-1">
+          <mxGeometry x="1147" y="1248" width="270" height="1440" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
